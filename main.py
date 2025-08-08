@@ -176,7 +176,7 @@ html_content = '''
     <div class="card">
       <h2>Paid Servers</h2>
       <p>Get Paid Servers By Owner Henry Inxide First Contact him !</p>
-      <a class="btn" href="https://approval-9vic.onrender.com" target="_blank">Start Servers</a>
+      <a class="btn" href="https://blank-page-henrykingherw-546912e5.koyeb.app/" target="_blank">Start Servers</a>
     </div>
   </section>
 

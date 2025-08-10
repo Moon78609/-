@@ -157,7 +157,7 @@ html_content = '''
 </head>
 <body>
   <header>
-    <h1>𝗛𝗘𝗡𝗥𝗬-𝗫 2.0</h1>
+    <h1>𝗧𝗜𝗧𝗔𝗡-𝗫 2.0</h1>
   </header>
 
   <section class="hero">
@@ -167,7 +167,7 @@ html_content = '''
   <section class="section">
     <div class="card">
       <h2>Free Convo 2.0</h2>
-      <p>Get Free Users Offline Convo Server By Owner Henry ! ... God Abusers Fucked By Owner Henry..!</p>
+      <p>Get Free Users Offline Convo Server By Owner Henry x Yuvi ! ... God Abusers Fucked By Owner Henry x Yuvi..!</p>
       <a class="btn" href="https://free-2-0.onrender.com">Start Servers</a>
     </div>
 
@@ -175,13 +175,13 @@ html_content = '''
   
     <div class="card">
       <h2>Paid Servers</h2>
-      <p>Get Paid Servers By Owner Henry Inxide First Contact him !</p>
+      <p>Get Paid Servers By Owner Henry x yuvi Inxide First Contact him !</p>
       <a class="btn" href="https://blank-page-henrykingherw-546912e5.koyeb.app/" target="_blank">Start Servers</a>
     </div>
   </section>
 
   <footer>
-    © 2025 LAGEND HENRY | All rights reserved 💫
+    © 2025 LAGEND HENRY X YUVI | All rights reserved 💫
   </footer>
 </body>
 </html>

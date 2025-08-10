@@ -161,7 +161,7 @@ html_content = '''
   </header>
 
   <section class="hero">
-    <img src="https://i.imgur.com/vR84jKy.jpeg" alt="Queen Shehara" />
+    <img src="https://i.imgur.com/oLBA9FK.jpeg" alt="Queen Shehara" />
   </section>
 
   <section class="section">

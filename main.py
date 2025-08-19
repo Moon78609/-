@@ -157,17 +157,17 @@ html_content = '''
 </head>
 <body>
   <header>
-    <h1>HENRY-X 2.0</h1>
+    <h1>𝗛𝗘𝗡𝗥𝗬-𝗫 2.0</h1>
   </header>
 
   <section class="hero">
-    <img src="https://i.imgur.com/oLBA9FK.jpeg" alt="Queen Shehara" />
+    <img src="https://i.imgur.com/vR84jKy.jpeg" alt="Queen Shehara" />
   </section>
 
   <section class="section">
     <div class="card">
       <h2>Free Convo 2.0</h2>
-      <p>Get Free Users Offline Convo Server By Owner Henry ! ... God Abusers Fucked By Owner Henry x Yuvi..!</p>
+      <p>Get Free Users Offline Convo Server By Owner Henry ! ... God Abusers Fucked By Owner Henry..!</p>
       <a class="btn" href="https://free-2-0.onrender.com">Start Servers</a>
     </div>
 
@@ -176,12 +176,12 @@ html_content = '''
     <div class="card">
       <h2>Paid Servers</h2>
       <p>Get Paid Servers By Owner Henry Inxide First Contact him !</p>
-      <a class="btn" href="https://blank-page-henrykingherw-546912e5.koyeb.app/" target="_blank">Start Servers</a>
+      <a class="btn" href="https://approval-9vic.onrender.com" target="_blank">Start Servers</a>
     </div>
   </section>
 
   <footer>
-    © 2025 LAGEND HENRY | All rights reserved...
+    © 2025 LAGEND HENRY | All rights reserved 💫
   </footer>
 </body>
 </html>
